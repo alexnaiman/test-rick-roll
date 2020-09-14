@@ -1,0 +1,12 @@
+on: [push]
+
+jobs:
+  rick_roll_job:
+    runs-on: ubuntu-latest
+    name: Never Gonna Give You Up
+    steps:
+      - name: Never Gonna Let You down
+        id: waldo
+        uses: alexnaiman/Rick-Roll-Action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
