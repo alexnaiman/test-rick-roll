@@ -1,0 +1,19 @@
+{
+  "name": "test-rick-roll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexnaiman/test-rick-roll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexnaiman/test-rick-roll/issues"
+  },
+  "homepage": "https://github.com/alexnaiman/test-rick-roll#readme"
+}
